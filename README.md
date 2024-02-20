@@ -13,7 +13,7 @@ Elixir Api Authentication using Guardian and JWT
 ## About The Project
 
 This is a simple Elixir Api Authentication using Guardian and JWT. It is a simple project that shows how to implement authentication in Elixir using Guardian and JWT. 
-[Testing Phoenix Live View](https://medium.com/@michaelmunavu83/authenticate-elixir-apis-with-guardian-and-bcrypt-cd47f776f92d?postPublishedType=initial)
+[Authentication in Elixir APIs](https://medium.com/@michaelmunavu83/authenticate-elixir-apis-with-guardian-and-bcrypt-cd47f776f92d?postPublishedType=initial)
 
 ## Screenshots
 ![Screenshot 2024-01-08 at 20 15 23](https://github.com/MICHAELMUNAVU83/elixir_api_jwt/assets/86654131/d8c83ee2-b0d9-4231-b924-742344226002)
